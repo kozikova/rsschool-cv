@@ -11,7 +11,7 @@ I am a .Net web developer with experience. At this stage, I need new knowledge a
 
 ## *Skills*
 | HTML | C# | TFS | Kendo Telerik | 
-| ----- | ------ | ------ | ------ |
+| :------- | :------- | :------- | :------- |
 | **CSS** | **ASP.NET MVC and Core** |  | **Aspose.Cells for .Net** | 
 | **JS** | **SQL, PostgreSQL** |  | **Aspose.Words for .Net** |
 | **JQuery** |  
