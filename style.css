@@ -37,14 +37,14 @@
 	bottom: 0;
 	left: 0;
 	background-color: rgb(248,244,229);	
+	font-family: 'Work Sans', sans-serif;
 }
 
 .logo {
 	margin-top: 20px;
 }
 
-figure {
-	position: absolute;
+figure {	
 	top: 15px;
 	right: 0;
 	bottom: 0;
@@ -64,6 +64,19 @@ figure {
 
 .rounded-photo {
 	width: 100%;
+}
+
+.center-align {
+	text-align: center;
+}
+
+.dark-footer {
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+}
+
+.contact-list {
+	list-style: none;
 }
 
 
