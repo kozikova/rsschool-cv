@@ -79,4 +79,15 @@ figure {
 	list-style: none;
 }
 
+.top-bordered {
+	border-top: solid 2px rgb(217, 217, 217);
+	padding-top: 20px;
+	padding-bottom: 5px;
+	word-wrap: break-word; 
+}
+
+.h2-small {
+	font-size: 1.1em;
+}
+
 
